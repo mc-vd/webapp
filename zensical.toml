@@ -302,7 +302,7 @@ toggle.name = "Switch to light mode"
 # - https://zensical.org/docs/authoring/icons-emojis/#search
 # ----------------------------------------------------------------------------
 [project.theme.icon]
-logo = "assets/logo/logo_mc_vd_color_400x400.png"
+logo = "assets/images/logo/logo_mc_vd_color_400x400.png"
 #repo = "lucide/smile"
 
 # ----------------------------------------------------------------------------
